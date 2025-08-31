@@ -3,9 +3,9 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 
 # ✅ Put your API details here (from my.telegram.org and BotFather)
-API_ID = int(os.getenv("API_ID", "12345"))
-API_HASH = os.getenv("API_HASH", "your_api_hash")
-BOT_TOKEN = os.getenv("BOT_TOKEN", "your_bot_token")
+API_ID = int(os.getenv("API_ID", "12475131"))
+API_HASH = os.getenv("API_HASH", "719171e38be5a1f500613837b79c536f")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "7564571951:AAE6xX7b2wPr6jh2SNV4ZH6EoVJXREuyAU8")
 
 # ✅ Domain mapping
 DOMAIN_MAP = {
